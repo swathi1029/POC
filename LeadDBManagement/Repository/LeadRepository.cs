@@ -8,7 +8,7 @@ namespace LeadDBManagement.Repository
     public class LeadRepository : ILeadRepository
     {
        private readonly IConfiguration _configuration;
-        public readonly string CosmosDbConnectionString = "AccountEndpoint=https://leaddataforpoc.documents.azure.com:443/;AccountKey=a2SoVZfUR9m1vGAghLjNhERPKIn44fE87UcYvvLVxylwOvPj347gdvqCFRSvMfUvuf26aumlMnk5ACDbNb570g==";
+        //public readonly string CosmosDbConnectionString = "AccountEndpoint=https://leaddataforpoc.documents.azure.com:443/;AccountKey=a2SoVZfUR9m1vGAghLjNhERPKIn44fE87UcYvvLVxylwOvPj347gdvqCFRSvMfUvuf26aumlMnk5ACDbNb570g==";
         public readonly string CosmosDbName = "LeadManagementDB";
         public readonly string CosmosDbContainerName = "Leads";
         
@@ -39,7 +39,6 @@ namespace LeadDBManagement.Repository
 
 
         }
-
         public async Task<List<Leaddata>> GetAllLeadsAsync()
         {
             var container = GetContainerClient();

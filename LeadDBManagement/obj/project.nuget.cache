@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JPvQ4Wul6T4lpWXkGEbbsMtKwqi0FWI6rdmuX33ZH5WRItxWygBsDE2Sd5Sgmx+XPz7UHwLaFCuI7yYT37YESw==",
+  "dgSpecHash": "raZFL21AaEioHzeAGKvBlAflKhH9QZItl97/E6DSrO8B7UUaZimGiv9wXQ31yFe8j9SkvqFxh3q7iX7NkZRnWA==",
   "success": true,
   "projectFilePath": "D:\\swathi\\POC\\LeadDBManagement\\LeadDBManagement.csproj",
   "expectedPackageFiles": [
@@ -136,7 +136,11 @@
     "C:\\Users\\v-swathikal\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\v-swathikal\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\v-swathikal\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\v-swathikal\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\v-swathikal\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\v-swathikal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\v-swathikal\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\v-swathikal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\v-swathikal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
   ],
   "logs": []
 }
