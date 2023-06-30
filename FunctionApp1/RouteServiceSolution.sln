@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteService", "FunctionApp1\RouteService.csproj", "{F097E901-335B-4BB3-875D-742A9F668409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F097E901-335B-4BB3-875D-742A9F668409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F097E901-335B-4BB3-875D-742A9F668409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F097E901-335B-4BB3-875D-742A9F668409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F097E901-335B-4BB3-875D-742A9F668409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB83ABD7-3E0F-444E-809C-12D41A986BD3}
+	EndGlobalSection
+EndGlobal
